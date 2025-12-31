@@ -8,4 +8,3 @@ pool:
 steps:
 - script: echo "Hello Matan!"
   displayName: 'Print message'
-``
